@@ -10,3 +10,6 @@ if (number1 > number2){
 if (number2 > number1){
     console.log(` Il numero maggiore è: ${number2}` )
 }
+else (number1 = number2){
+    console.log(` I numeri sono uguali` )
+}
